@@ -5,20 +5,36 @@
     "description": "The Queensland Amateur Brewing Competition",
     "committee": [
       {
-        "position": "Organiser & Competition Secretary:",
-        "holder": "Mark Davies"
+        "position": "President:",
+        "holder": "Stephen Wharton"
       },
       {
-        "position": "Judge Director & Head Steward:",
+        "position": "Treasurer:",
+        "holder": "TBD (Mark Davies interim)"
+      },
+      {
+        "position": "Secretary:",
+        "holder": "Dean Tummers"
+      },
+      {
+        "position": "Webmaster:",
+        "holder": "Troy Parker"
+      },
+      {
+        "position": "Chief Steward:",
         "holder": "Tony Brown"
       },
       {
         "position": "Registrar:",
-        "holder": "Jason McDonald"
+        "holder": "Colin Wright"
       },
       {
-        "position": "Transportation:",
-        "holder": "Dean Tummers"
+        "position": "AABC Representatives:",
+        "holder": "Stephen Wharton, Cary McDonald"
+      },
+      {
+        "position": "Venue & Transportation:",
+        "holder": "Dean Tummers, Tony Brown"
       }
     ]
   },
