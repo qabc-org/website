@@ -10,7 +10,7 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   local_dir: build
-  repo: qabc/qabc-org.github.io
+  repo: qabc-org/qabc-org.github.io
   target_branch: master
   on:
     branch: 2017-site
