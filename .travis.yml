@@ -12,5 +12,6 @@ deploy:
   local_dir: build
   repo: qabc-org/qabc-org.github.io
   target_branch: master
+  fqdn: https://qabc.org.au
   on:
     branch: 2017-site
