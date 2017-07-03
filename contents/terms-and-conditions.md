@@ -11,11 +11,11 @@ found on the [AABC website](http://www.aabc.org.au).
 3. Each entrant is restricted to a maximum of five (5) entries total.
 4. Each Category will be restricted to forty-eight (48) entries total and will not accept entries once this limit is met.
 5. Entries will only be accepted from residents of Queensland. These entries are to take the form of 1 bottle containing no less than 500ml of beer (750ml bottles preferred) and must be the product of the person entering the beer. Brown plastic PET or brown glass bottles will be accepted. All bottles are to have labels removed.
-6. Entry fee is $6 per entry, to be paid online. Entries close on:
- * **Craftbrewer/Bacchus Brewing - TBA, 2017**
- * **National Homebrewer at Hervey Bay - TBA, 2017**
- * **Brewers Choice - TBA, 2017**
- * **Ipswich Brew Co - TBA, 2017**
+6. Entry fee is $6 per entry, to be paid online. Entries close at close-of-business August 26th 2017:
+ * **Craftbrewer - 1pm**
+ * **National Homebrewer, Hervey Bay - 4:30pm**
+ * **Brewers Choice - 5pm**
+ * **Ipswich Brew Co - 1pm**
 7. Judging will take place on the weekend of 9th September (To be confirmed).
 8. Judging will be conducted by blind tasting, referencing the [AABC style guidelines](http://www.aabc.org.au).
 9. Prizes will be awarded to the first three placings in each category. Points will be
