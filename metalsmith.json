@@ -2,7 +2,7 @@
   "source": "./contents",
   "metadata": {
     "name": "QABC",
-    "description": "The Queensland Amateur Brewing Competition",
+    "description": "The Queensland Amateur Brewing Championship",
     "committee": [
       {
         "position": "President:",
@@ -10,7 +10,7 @@
       },
       {
         "position": "Treasurer:",
-        "holder": "TBD (Mark Davies interim)"
+        "holder": "Nick Holt"
       },
       {
         "position": "Secretary:",
@@ -22,7 +22,7 @@
       },
       {
         "position": "Chief Steward:",
-        "holder": "Tony Brown"
+        "holder": "Aydan Rogers"
       },
       {
         "position": "Registrar:",
@@ -31,10 +31,6 @@
       {
         "position": "AABC Representatives:",
         "holder": "Stephen Wharton, Cary McDonald"
-      },
-      {
-        "position": "Venue & Transportation:",
-        "holder": "Dean Tummers, Tony Brown"
       }
     ]
   },
