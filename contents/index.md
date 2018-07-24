@@ -1,14 +1,15 @@
 ---
-title: 2017 event
+title: 2018 event
 layout: index.hbs
 ---
 
-The 2017 Queensland Amateur Brewing Championship will likely be held on the 9th September 2017 at the Prince Alfred Hotel, 170 Brisbane Road, Booval.
+The 2018 Queensland Amateur Brewing Championship will be held on the 8th September 2018 at
+* Newstead Brewing Co.
+* 67 Castlemaine Street
+* Milton QLD 4064
 
-Stay tuned for drop-off deadline and locations.
+Entries will be due close of business Saturday 25th of August 2018.  Drop-off locations will be updated over the coming weeks.
 
-Style guidelines will be as per the new [AABC guidelines](http://aabc.org.au/docs/AABC2017StyleGuidelines.pdf).
+Style guidelines will be as per the 2017 [AABC guidelines](http://aabc.org.au/docs/AABC2017StyleGuidelines.pdf).
 
-[2017 Results Summary here](/results/2017.html)
-
-We will be using online registration and entry this year for brewers, judges and stewards.  Details will be updated when finalised.
+All entries, judges and stewards must be registered online once available.

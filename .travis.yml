@@ -14,4 +14,4 @@ deploy:
   target_branch: master
   fqdn: https://qabc.org.au
   on:
-    branch: 2017-site
+    branch: 2018-site
