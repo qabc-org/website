@@ -23,7 +23,7 @@ All entries, judges and stewards must be [registered online](https://qldbeercomp
 
 The QAAWBG committee has worked hard on sponsorships and are very happy to announce the following prizes for this year's championship:
 
-**Champion Brewer** - Ss Brewtech Chronical 7 Fermenter, Brewmaster Edition (Value $999) – Donated by **Newera Brewing**  
+**Champion Brewer** - [Ss Brewtech Chronical 7 - Brewmaster Edition](https://www.newerabrewing.com.au/ss-brewtech-chronical-7-fermenter-brewmaster-edition/) – Valued at $999  – Donated by **Newera Brewing**  
 **Champion Beer** - $100 National Home Brew voucher – Donated by **National Home Brew**
 
 ** Beer Categories **  
