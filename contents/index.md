@@ -26,7 +26,7 @@ The QAAWBG committee has worked hard on sponsorships and are very happy to annou
 **Champion Brewer** - [Ss Brewtech Chronical 7 - Brewmaster Edition](https://www.newerabrewing.com.au/ss-brewtech-chronical-7-fermenter-brewmaster-edition/) – Valued at $999  – Donated by **Newera Brewing**  
 **Champion Beer** - $100 National Home Brew voucher – Donated by **National Home Brew**
 
-**Runner-up Champion Brewer & Runner-up Champion Beer** - [Ink-Bird ITC-308 Temperature Controller](http://www.ink-bird.com/products-temperature-controller-itc308.html) – Valued at $50  – Donated by **Ink-Bird Home Automation**  
+**Runner-up Champion Brewer & Runner-up Champion Beer** - [Ink-Bird ITC-308 Temperature Controller](https://www.ebay.com.au/itm/322181962638) – Valued at $50  – Donated by **Ink-Bird Home Automation**  
 
 ** Beer Categories **  
 ***1st Place***  
