@@ -42,13 +42,13 @@ The QAAWBG committee has worked hard on sponsorships and are very happy to annou
 
 ** All Categories **  
 ***1st, 2nd & 3rd Places***  
-1 x Wyeast yeast pack donated by **Wyeast & Craftbrewer** – Collection at **Craftbrewer**  
+1 x Wyeast yeast pack Donated by **Wyeast & Craftbrewer** – Collection at **Craftbrewer**  
 
 ***2nd Place***  
-1 x $25 Hoppy Days Voucher - donated by **Hoppy Days**  
+1 x $25 Hoppy Days Voucher - Donated by **Hoppy Days**  
 
 ** Lucky Door Prizes **  
-1 x $100 Newstead voucher - sponsored by **QAAWBG**  
-1 x Helios Brewing pack (T-Shirt, Growler & Fill)
+1 x $100 Newstead voucher - Sponsored by **QAAWBG**  
+1 x Helios Brewing pack (T-Shirt, Growler & Fill) - Donated by Helios Brewing Company
 
 _Lucky door prizes will be randomly drawn at lunch time on judging day with all judges, stewards and competition organisers getting one entry each._
