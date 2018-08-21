@@ -49,6 +49,6 @@ The QAAWBG committee has worked hard on sponsorships and are very happy to annou
 
 ** Lucky Door Prizes **  
 1 x $100 Newstead voucher - Sponsored by **QAAWBG**  
-1 x Helios Brewing pack (T-Shirt, Growler & Fill) - Donated by Helios Brewing Company
+1 x Helios Brewing pack (T-Shirt, Growler & Fill) - Donated by **Helios Brewing Company**
 
 _Lucky door prizes will be randomly drawn at lunch time on judging day with all judges, stewards and competition organisers getting one entry each._
