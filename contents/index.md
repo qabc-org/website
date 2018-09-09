@@ -3,6 +3,8 @@ title: 2018 event
 layout: index.hbs
 ---
 
+(2018 Results Summary)[https://qabc.org.au/results/2018.html]
+
 The 2018 Queensland Amateur Brewing Championship will be held on the 8th September 2018 at
 
 **Newstead Brewing Co.**  
